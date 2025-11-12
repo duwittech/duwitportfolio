@@ -78195,7 +78195,7 @@ L(a){var s=null,r=A.b6().$0().d,q=A.b6().$4$color$fontSize$fontWeight$height(B.a
 p=A.ad2(A.b6().$4$color$fontSize$fontWeight$height(B.BG,18,B.l,1.6),A.b6().$4$color$fontSize$fontWeight$height(B.f8,16,B.l,1.5),s,q,p,s,s,s,s,s,s,s,s,s,s)
 q=t.rc
 p=A.tD(B.yU,s,B.AO,r,B.a6,B.br,new A.tb(s,new A.br(8,t.YI),s,s,B.cE,new A.br(B.f8,q),new A.br(B.a6.yZ(0.1),q),new A.br(B.E,q),s,s,48),p,!1)
-return new A.rr($.aAW(),"Your Name - Designer & Developer",p,!1,s)}}
+return new A.rr($.aAW(),"Duwit Tech",p,!1,s)}}
 A.GT.prototype={
 L(a){var s=null
 return A.Kz(s,B.a6,A.Lf(A.bg(A.b([new A.qC().wj(a),new A.IJ(s),new A.nV(s)],t.p),B.v,B.p,B.n),s,s))}}
